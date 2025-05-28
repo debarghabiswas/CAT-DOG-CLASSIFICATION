@@ -8,10 +8,6 @@ The entire training process was performed on a **CPU-only** environment (no GPU 
 
 You can download the dataset used for training and validation from this [Google Drive link](https://sds.courses/cm/dl-az-completeDatasets) provided by the SuperDataScience Deep Learning course.
 
-## Pretrained Model
-
-If you prefer not to train the model from scratch, you can download the pretrained models directly from this [Google Drive link](https://drive.google.com/file/d/11TVW_QQuJf5ju7mmkm9nZDmrv8PI8huS/view?usp=sharing).
-
 ## Resources and Framework
 
 * **Dataset Source**: SuperDataScience Deep Learning Course
